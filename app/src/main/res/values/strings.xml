@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ShowAPIDemo</string>
+
+    <string name="btn_weather">天气预报</string>
+    <string name="btn_joke">笑话大全</string>
+    <string name="btn_meinv">美女</string>
+
+    <string name="area">深圳</string>
+    <string name="time">2017年02月20日</string>
+    <string name="temperature">16~24°C</string>
+    <string name="weather">小雨</string>
+    <string name="wind_direction">东南偏东</string>
+    <string name="wind_power">4-5 和风  8.0~10.7m/s</string>
+    <string name="des_day">：未来15天天气预报</string>
+    <string name="hint_city">请输入城市名称，如：深圳</string>
+
+    <string name="joke_gif_pictrue">动态搞笑图</string>
+    <string name="joke_pictrue">搞笑图</string>
+    <string name="joke_text">搞笑文本</string>
+    <string name="open">打开开</string>
+    <string name="close">关闭</string>
+    <string name="chack">查询</string>
+
+    <string name="weather_mgs">国家气象局天气预报，可根据地区名称、经纬度、IP查询对应地区的天气预报。实时天气情况每30分钟更新1次</string>
+    <string name="joke_mgs">每小时更新。笑话大全，信息搜集整理于互联网，包括文字笑话、搞笑图片等。</string>
+    <string name="meinv_mgs">提供美女图片资讯，每天自动更新。</string>
+    <string name="express_mgs">可查询国内外400多家快递或物流公司的运单信息，包括EMS、京东快递、顺丰、圆通、申通、韵达、德邦、中通、天天、汇通（百世）、宅急送...</string>
+
+    <string name="test">测试</string>
+
+
+</resources>

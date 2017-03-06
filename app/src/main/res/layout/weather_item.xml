@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="@drawable/bg_item"
+    android:orientation="vertical">
+    <!--日期-->
+    <TextView
+        android:id="@+id/tv_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/time"
+        android:textColor="#000000" />
+
+    <ImageView
+        android:id="@+id/iv"
+        android:layout_width="100dp"
+        android:layout_height="90dp"
+        android:layout_gravity="center"
+        android:src="@mipmap/ic_launcher" />
+    <!--温度-->
+    <TextView
+        android:id="@+id/tv_temperature"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/temperature"
+        android:textColor="#000000" />
+    <!--天气-->
+    <TextView
+        android:id="@+id/tv_weather"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/weather"
+        android:textColor="#000000" />
+    <!--风向-->
+    <TextView
+        android:id="@+id/tv_win_derection"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/wind_direction"
+        android:textColor="#000000" />
+    <!--风力-->
+    <TextView
+        android:id="@+id/tv_wind_power"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/wind_power"
+        android:textColor="#000000" />
+
+</LinearLayout>
